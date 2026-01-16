@@ -20,13 +20,22 @@ redirect_from:
 
 I received the Ph.D. degree in Computer Science from Peking University (PKU), China, under the supervision of Prof. Tiejun Huang in 2025 and the B.E. degree in Mathematics from the University of Electronic Science and Technology of China (UESTC), China in 2019. I am currently a Research Fellow at Peking University, China, working with Prof. Tiejun Huang and Dr. Lei Ma. My research interests include areas of image processing, computational photography, and computer vision, particularly for topics related to neuromorphic cameras and 3D vision.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).>
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020*: &nbsp;🎉🎉 One first-authored paper is accepted by Chaos, Solitons & Fractals.
+- *2021*: &nbsp;🎉🎉 One co-authored paper is accepted by Physics Letters A. Congratulations to Qifeng!
+- *2022.03*: &nbsp;🎉🎉 One first-authored paper is accepted by CVPR.
+- *2023.03*: &nbsp;🎉🎉 One co-authored paper is accepted by CVPR. Congratulations to Yakun!
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper is accepted by ICME. Congratulations to Yijia!
+- *2024.07*: &nbsp;🎉🎉 One first-authored paper is accepted by ICME.
+- *2024.09*: &nbsp;🎉🎉 One first-authored paper is accepted by ECCV.
+- *2024.10*: &nbsp;🎉🎉 One co-authored paper is accepted by MM. Congratulations to Yijia!
+- *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by AAAI. Congratulations to Yijia!
+- *2026.01*: &nbsp;🎉🎉 One first-authored paper is accepted by TPAMI. 
 
+<!-- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -57,3 +66,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+>
