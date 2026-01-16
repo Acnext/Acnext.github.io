@@ -20,9 +20,6 @@ redirect_from:
 
 I received the Ph.D. degree in Computer Science from Peking University (PKU), China, under the supervision of Prof. Tiejun Huang in 2025 and the B.E. degree in Mathematics from the University of Electronic Science and Technology of China (UESTC), China in 2019. I am currently a Research Fellow at Peking University, China, working with Prof. Tiejun Huang and Dr. Lei Ma. My research interests include areas of image processing, computational photography, and computer vision, particularly for topics related to neuromorphic cameras and 3D vision.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
->
-
 
 # 🔥 News
 - *2020*: &nbsp;🎉🎉 One first-authored paper is accepted by Chaos, Solitons & Fractals.
@@ -35,6 +32,11 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper is accepted by MM. Congratulations to Yijia!
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by AAAI. Congratulations to Yijia!
 - *2026.01*: &nbsp;🎉🎉 One first-authored paper is accepted by TPAMI. 
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+>
+
+
 
 <!-- 
 # 📝 Publications 
