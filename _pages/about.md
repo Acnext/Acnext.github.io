@@ -69,4 +69,5 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
->}
+>
+%}
