@@ -22,14 +22,14 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 
 
 # 🔥 News
-- *2020*: &nbsp;🎉🎉 One first-authored paper is accepted by Chaos, Solitons & Fractals.
-- *2021*: &nbsp;🎉🎉 One co-authored paper is accepted by Physics Letters A. Congratulations to Qifeng!
-- *2022.03*: &nbsp;🎉🎉 One first-authored paper is accepted by CVPR.
-- *2023.03*: &nbsp;🎉🎉 One co-authored paper is accepted by CVPR. Congratulations to Yakun!
-- *2024.07*: &nbsp;🎉🎉 One co-authored paper is accepted by ICME. Congratulations to Yijia!
-- *2024.07*: &nbsp;🎉🎉 One first-authored paper is accepted by ICME.
-- *2024.09*: &nbsp;🎉🎉 One first-authored paper is accepted by ECCV.
-- *2024.10*: &nbsp;🎉🎉 One co-authored paper is accepted by MM. Congratulations to Yijia!
-- *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by AAAI. Congratulations to Yijia!
-- *2026.01*: &nbsp;🎉🎉 One first-authored paper is accepted by TPAMI. 
+- *2020*: &nbsp;🎉🎉 One first-authored paper is accepted by **Chaos, Solitons & Fractals**.
+- *2021*: &nbsp;🎉🎉 One co-authored paper is accepted by **Physics Letters A**. Congratulations to Qifeng!
+- *2022.03*: &nbsp;🎉🎉 One first-authored paper is accepted by **CVPR**.
+- *2023.03*: &nbsp;🎉🎉 One co-authored paper is accepted by **CVPR**. Congratulations to Yakun!
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper is accepted by **ICME**. Congratulations to Yijia!
+- *2024.07*: &nbsp;🎉🎉 One first-authored paper is accepted by **ICME**.
+- *2024.09*: &nbsp;🎉🎉 One first-authored paper is accepted by **ECCV**.
+- *2024.10*: &nbsp;🎉🎉 One co-authored paper is accepted by **MM**. Congratulations to Yijia!
+- *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by **AAAI**. Congratulations to Yijia!
+- *2026.01*: &nbsp;🎉🎉 One first-authored paper is accepted by **TPAMI**. 
 
