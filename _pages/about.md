@@ -33,3 +33,24 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 - *2021*: &nbsp;🎉🎉 One co-authored paper is accepted by **Physics Letters A**. Congratulations to Qifeng!
 - *2020*: &nbsp;🎉🎉 One first-authored paper is accepted by **Chaos, Solitons & Fractals**.
 
+<div class="pub-row">
+  <div class="pub-img">
+    <img src="/images/publications/你的图片.png">
+  </div>
+
+  <div class="pub-info">
+    <div class="pub-title">
+      你的论文标题
+    </div>
+
+    <div class="pub-authors">
+      作者A, 作者B, <strong>Liwen Hu</strong>, 作者C.
+    </div>
+
+    <div class="pub-links">
+      <a href="项目主页链接">[Project]</a>
+      <a href="论文链接">[Paper]</a>
+      <a href="代码链接">[Code]</a>
+    </div>
+  </div>
+</div>
