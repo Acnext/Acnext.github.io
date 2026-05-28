@@ -33,24 +33,40 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 - *2021*: &nbsp;🎉🎉 One co-authored paper is accepted by **Physics Letters A**. Congratulations to Qifeng!
 - *2020*: &nbsp;🎉🎉 One first-authored paper is accepted by **Chaos, Solitons & Fractals**.
 
-<div class="pub-row">
+{%<div class="pub-row">
   <div class="pub-img">
     <img src="/images/publications/你的图片.png">
   </div>
 
   <div class="pub-info">
     <div class="pub-title">
-      你的论文标题
+      Rewarding endowments lead to a win-win in the evolution of public cooperation and the accumulation of common resources
     </div>
 
     <div class="pub-authors">
-      作者A, 作者B, <strong>Liwen Hu</strong>, 作者C.
+      Liwen Hu, Nanrong He, Qifeng Weng, Xiaojie Chen, Matjaž Perc.
     </div>
-
     <div class="pub-links">
       <a href="项目主页链接">[Project]</a>
       <a href="论文链接">[Paper]</a>
       <a href="代码链接">[Code]</a>
+    </div>
+  </div>
+</div>%}
+
+<div class="pub-row">
+  <div class="pub-img">
+    <img src="/images/publications/你的图片.png">
+  </div>
+  <div class="pub-info">
+    <div class="pub-title">
+      Rewarding endowments lead to a win-win in the evolution of public cooperation and the accumulation of common resources
+    </div>
+    <div class="pub-authors">
+      Liwen Hu, Nanrong He, Qifeng Weng, Xiaojie Chen, Matjaž Perc.
+    </div>
+    <div class="pub-links">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0960077920300965">[Paper]</a>
     </div>
   </div>
 </div>
