@@ -56,7 +56,7 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 
 <div class="pub-row">
   <div class="pub-img">
-    <img src="/images/publications/你的图片.png">
+    <img src="/images/pub/cvpr_22_scflow.png">
   </div>
   <div class="pub-info">
     <div class="pub-title">
