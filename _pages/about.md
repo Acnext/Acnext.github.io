@@ -35,20 +35,24 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 
 
 
-<div style="display:flex; align-items:flex-start; margin-bottom:45px; gap:35px;">
+<h2 style="margin-top:35px; margin-bottom:22px;">Selected Publications</h2>
+<div style="display:flex; align-items:flex-start; gap:26px; margin-bottom:34px; padding-bottom:28px; border-bottom:1px solid #eeeeee;">
 <div style="flex:0 0 360px;">
-<img src="/images/pub/cvpr_22_scflow.png" style="width:360px; max-width:360px;">
+<img src="/images/pub/cvpr_22_scflow.png" style="width:360px; max-width:100%; border-radius:6px; border:1px solid #e5e5e5;">
 </div>
-<div style="flex:1; padding-top:8px;">
-<div style="font-size:23px; font-weight:500; line-height:1.35; margin-bottom:10px;">
+<div style="flex:1; padding-top:2px;">
+<div style="font-size:22px; font-weight:600; line-height:1.35; margin-bottom:10px; color:#222;">
 Optical Flow Estimation for Spiking Camera
 </div>
-<div style="font-size:17px; line-height:1.45; color:#555; margin-bottom:14px;">
+<div style="font-size:16px; line-height:1.55; color:#555; margin-bottom:8px;">
 <strong>Liwen Hu*</strong>, Rui Zhao*, Ziluo Ding, Lei Ma, Boxin Shi, Ruiqin Xiong, Tiejun Huang.
 </div>
-<div style="font-size:17px;">
-<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf" style="color:#b31b1b; text-decoration:none;">[Paper]</a>
-<a href="代码链接" style="color:#b31b1b; text-decoration:none;">[Code]</a>
+<div style="font-size:16px; line-height:1.45; color:#444; margin-bottom:13px;">
+<strong>CVPR 2022</strong>
+</div>
+<div style="font-size:16px; line-height:1.4;">
+<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf" style="color:#b31b1b; text-decoration:none; margin-right:10px;">[Paper]</a>
+<a href="代码链接" style="color:#b31b1b; text-decoration:none; margin-right:10px;">[Code]</a>
 </div>
 </div>
 </div>
