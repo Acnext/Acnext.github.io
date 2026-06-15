@@ -60,13 +60,13 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
   </div>
   <div class="pub-info">
     <div class="pub-title">
-      Rewarding endowments lead to a win-win in the evolution of public cooperation and the accumulation of common resources
+      Optical Flow Estimation for Spiking Camera
     </div>
     <div class="pub-authors">
-      Liwen Hu, Nanrong He, Qifeng Weng, Xiaojie Chen, Matjaž Perc.
+      Liwen Hu*, Rui Zhao*, Ziluo Ding, Lei Ma, Boxin Shi, Ruiqin Xiong, Tiejun Huang.
     </div>
     <div class="pub-links">
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0960077920300965">[Paper]</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf">[Paper]</a>
     </div>
   </div>
 </div>
