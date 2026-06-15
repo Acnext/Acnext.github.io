@@ -35,7 +35,7 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 
 
 
-# 🔥 Publications
+# 📕 Publications
 <div style="display:flex; align-items:flex-start; gap:26px; margin-bottom:34px; padding-bottom:28px; border-bottom:1px solid #eeeeee;">
 <div style="flex:0 0 360px;">
 <img src="/images/pub/cvpr_22_scflow.png" style="width:360px; max-width:100%; border-radius:6px; border:1px solid #e5e5e5;">
