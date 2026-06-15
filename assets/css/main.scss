@@ -107,3 +107,64 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.pub-row {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 45px;
+}
+
+.pub-img {
+  flex: 0 0 300px;
+  margin-right: 35px;
+}
+
+.pub-img img {
+  width: 300px;
+  border-radius: 4px;
+}
+
+.pub-info {
+  flex: 1;
+}
+
+.pub-title {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.35;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+.pub-authors {
+  font-size: 18px;
+  color: #888;
+  line-height: 1.4;
+  margin-bottom: 18px;
+}
+
+.pub-links a {
+  font-size: 18px;
+  color: #b31b1b;
+  margin-right: 8px;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+  .pub-row {
+    flex-direction: column;
+  }
+
+  .pub-img {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+
+  .pub-img img {
+    width: 100%;
+  }
+}
