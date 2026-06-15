@@ -34,23 +34,6 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 - *2020*: &nbsp;🎉🎉 One first-authored paper is accepted by **Chaos, Solitons & Fractals**.
 
 
-<div class="pub-row">
-  <div class="pub-img">
-    <img src="/images/pub/cvpr_22_scflow.png">
-  </div>
-  <div class="pub-info">
-    <div class="pub-title">
-      Optical Flow Estimation for Spiking Camera
-    </div>
-    <div class="pub-authors">
-      Liwen Hu*, Rui Zhao*, Ziluo Ding, Lei Ma, Boxin Shi, Ruiqin Xiong, Tiejun Huang.
-    </div>
-    <div class="pub-links">
-      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf">[Paper]</a>
-      <a href="代码链接">[Code]</a>
-    </div>
-  </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 45px; gap: 30px;">
 
