@@ -51,3 +51,26 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
     </div>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 45px; gap: 30px;">
+
+  <div style="flex: 0 0 320px;">
+    <img src="/images/pub/cvpr_22_scflow.png" style="width: 320px; max-width: 320px;">
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-size: 22px; font-weight: 500; line-height: 1.35; margin-bottom: 8px;">
+      Optical Flow Estimation for Spiking Camera
+    </div>
+
+    <div style="font-size: 17px; line-height: 1.45; color: #555; margin-bottom: 12px;">
+      <strong>Liwen Hu*</strong>, Rui Zhao*, Ziluo Ding, Lei Ma, Boxin Shi, Ruiqin Xiong, Tiejun Huang.
+    </div>
+
+    <div style="font-size: 17px;">
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf">[Paper]</a>
+      <a href="代码链接">[Code]</a>
+    </div>
+  </div>
+
+</div>
