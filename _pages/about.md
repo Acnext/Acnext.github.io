@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I received the Ph.D. degree in Computer Science from Peking University (PKU), China, under the supervision of Prof. Tiejun Huang in 2025 and the B.E. degree in Mathematics from the University of Electronic Science and Technology of China (UESTC), China in 2019. I am currently a Research Fellow at Peking University, China, working with Prof. Tiejun Huang and Dr. Lei Ma. My research interests include areas of image processing, computational photography, and computer vision, particularly for topics related to neuromorphic cameras and 3D vision.
+I received the Ph.D. degree in Computer Science from Peking University (PKU), China, under the supervision of Prof. Tiejun Huang in 2025 and the B.E. degree in Mathematics from the University of Electronic Science and Technology of China (UESTC), China, in 2019. I am currently a Research Fellow at Peking University, China, working with Prof. Tiejun Huang and Dr. Lei Ma. My research interests include areas of image processing, computational photography, and computer vision, particularly for topics related to neuromorphic cameras and 3D vision.
 
 
 # 🔥 News
