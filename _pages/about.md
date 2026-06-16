@@ -66,13 +66,13 @@ Optical Flow Estimation for Spiking Camera
 1000 fps hdr video with a spike-rgb hybrid camera
 </div>
 <div style="font-size:13.5px !important; line-height:1.55; color:#555; margin-bottom:6px;">
-<strong>Liwen Hu*</strong>, Rui Zhao*, Ziluo Ding, Lei Ma, Boxin Shi, Ruiqin Xiong, Tiejun Huang.
+  Yakun Chang, Chu Zhou, Yuchen Hong, <strong>Liwen Hu</strong>, Chao Xu, Tiejun Huang, Boxin Shi.
 </div>
 <div style="font-size:13.5px !important; line-height:1.45; color:#444; margin-bottom:9px;">
-<strong>CVPR 2022</strong>
+<strong>CVPR 2023</strong>
 </div>
 <div style="font-size:14px !important; line-height:1.4;">
-<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf" style="color:#b31b1b; text-decoration:none; margin-right:10px;">[Paper]</a>
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_1000_FPS_HDR_Video_With_a_Spike-RGB_Hybrid_Camera_CVPR_2023_paper.pdf" style="color:#b31b1b; text-decoration:none; margin-right:10px;">[Paper]</a>
 <a href="代码链接" style="color:#b31b1b; text-decoration:none; margin-right:10px;">[Code]</a>
 </div>
 </div>
