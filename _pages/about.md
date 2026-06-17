@@ -37,8 +37,8 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 
 # 📕 Publications
 <div style="display:flex; align-items:flex-start; gap:22px; margin-bottom:28px; padding-bottom:24px; border-bottom:1px solid #eeeeee;">
-<div style="flex:0 0 300px; width:300px; height:150px; display:flex; align-items:center; justify-content:center; border:1px solid #e5e5e5; border-radius:4px; background:#fff; overflow:hidden;">
-<img src="/images/pub/cvpr_22_scflow.png" style="max-width:100%; max-height:100%; object-fit:contain;">
+<div style="flex:0 0 300px; width:300px; height:150px; overflow:hidden; border-radius:4px;">
+<img src="/images/pub/cvpr_22_scflow.png" style="width:100%; height:100%; object-fit:cover; object-position:center;">
 </div>
 <div style="flex:1; padding-top:2px;">
 <div style="font-size:17px !important; font-weight:600; line-height:1.35; margin-bottom:7px; color:#222;">
@@ -58,8 +58,8 @@ Optical Flow Estimation for Spiking Camera
 </div>
 
 <div style="display:flex; align-items:flex-start; gap:22px; margin-bottom:28px; padding-bottom:24px; border-bottom:1px solid #eeeeee;">
-<div style="flex:0 0 300px; width:300px; height:150px; display:flex; align-items:center; justify-content:center; border:1px solid #e5e5e5; border-radius:4px; background:#fff; overflow:hidden;">
-<img src="/images/pub/cvpr_23_1000fps.png" style="max-width:100%; max-height:100%; object-fit:contain;">
+<div style="flex:0 0 300px; width:300px; height:150px; overflow:hidden; border-radius:4px;">
+<img src="/images/pub/cvpr_23_1000fps.png" style="width:100%; height:100%; object-fit:cover; object-position:center;">
 </div>
 <div style="flex:1; padding-top:2px;">
 <div style="font-size:17px !important; font-weight:600; line-height:1.35; margin-bottom:7px; color:#222;">
