@@ -59,7 +59,7 @@ Optical Flow Estimation for Spiking Camera
 
 <div style="display:flex; align-items:flex-start; gap:22px; margin-bottom:28px; padding-bottom:24px; border-bottom:1px solid #eeeeee;">
 <div style="flex:0 0 300px; width:300px; height:150px; display:flex; align-items:center; justify-content:center; border:1px solid #e5e5e5; border-radius:4px; background:#fff; overflow:hidden;">
-<img src="/images/pub/cvpr_22_scflow.png" style="max-width:100%; max-height:100%; object-fit:contain;">
+<img src="/images/pub/cvpr_23_1000fps.png" style="max-width:100%; max-height:100%; object-fit:contain;">
 </div>
 <div style="flex:1; padding-top:2px;">
 <div style="font-size:17px !important; font-weight:600; line-height:1.35; margin-bottom:7px; color:#222;">
