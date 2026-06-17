@@ -78,4 +78,23 @@ Optical Flow Estimation for Spiking Camera
 </div>
 </div>
 
-
+<div style="display:flex; align-items:flex-start; gap:22px; margin-bottom:28px; padding-bottom:24px; border-bottom:1px solid #eeeeee;">
+<div style="flex:0 0 300px; width:300px; height:150px; overflow:hidden; border-radius:4px;">
+<img src="/images/pub/icme_24_spikenerf.png" style="width:100%; height:100%; object-fit:cover; object-position:center;">
+</div>
+<div style="flex:1; padding-top:2px;">
+<div style="font-size:17px !important; font-weight:600; line-height:1.35; margin-bottom:7px; color:#222;">
+Spike-nerf: Neural radiance field based on spike camera
+</div>
+<div style="font-size:14px !important; line-height:1.55; color:#555; margin-bottom:6px;">
+  Yijia Guo, Yuanxi Bai, <strong>Liwen Hu</strong>, Mianzhi Liu, Ziyi Guo, Lei Ma, Tiejun Huang
+</div>
+<div style="font-size:14px !important; line-height:1.45; color:#444; margin-bottom:9px;">
+<strong>ICME 2024</strong>
+</div>
+<div style="font-size:14.5px !important; line-height:1.4;">
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10687382" style="color:#b31b1b; text-decoration:none; margin-right:10px;">[Paper]</a>
+<a href="代码链接" style="color:#b31b1b; text-decoration:none; margin-right:10px;">[Code]</a>
+</div>
+</div>
+</div>
