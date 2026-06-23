@@ -22,6 +22,7 @@ I received the Ph.D. degree in Computer Science from Peking University (PKU), Ch
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One first-authored paper is accepted by **ECCV**.
 - *2026.01*: &nbsp;🎉🎉 One first-authored paper is accepted by **TPAMI**.
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by **AAAI**. Congratulations to Yijia!
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper is accepted by **MM**. Congratulations to Yijia!
